@@ -1,5 +1,9 @@
 https://github.com/davezuko/react-redux-starter-kit
 
+React MDL:  https://github.com/react-mdl/react-mdl
+            ShowCase: https://react-mdl.github.io/react-mdl/components/menu/
+
+
 # React Redux Starter Kit
 
 [![Join the chat at https://gitter.im/davezuko/react-redux-starter-kit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/davezuko/react-redux-starter-kit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
