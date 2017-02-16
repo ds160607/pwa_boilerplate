@@ -3,9 +3,31 @@ https://github.com/davezuko/react-redux-starter-kit
 React MDL:  https://github.com/react-mdl/react-mdl
             ShowCase: https://react-mdl.github.io/react-mdl/components/menu/
 
+# PWA Exness
+
+## Firebase 
+1) git clone https://github.com/ds160607/pwa_boilerplate.git
+2) npm install -g firebase-tools  (sudo?)
+3) firebase login
+	- в браузере войти в аккаунт гугла и разрешить доступ
+
+		firebase login
+		? Allow Firebase to collect anonymous CLI usage information? No
+
+		Visit this URL on any device to log in:
+		https://accounts.google.com/o/oauth2/auth?client_id=563584335869...
+	
+		Waiting for authentication...
+
+		✔  Success! Logged in as pwa.exness@gmail.com
+		dmitry.grushin@w4007:~/exness/PWA/pwa_boilerplate$ 
+4) firebase deploy
+
+
+
+
 
 # React Redux Starter Kit
-
 [![Join the chat at https://gitter.im/davezuko/react-redux-starter-kit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/davezuko/react-redux-starter-kit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/davezuko/react-redux-starter-kit.svg?branch=master)](https://travis-ci.org/davezuko/react-redux-starter-kit?branch=master)
 [![dependencies](https://david-dm.org/davezuko/react-redux-starter-kit.svg)](https://david-dm.org/davezuko/react-redux-starter-kit)
