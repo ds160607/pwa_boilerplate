@@ -6,22 +6,23 @@ React MDL:  https://github.com/react-mdl/react-mdl
 # PWA Exness
 
 ## Firebase 
-1) git clone https://github.com/ds160607/pwa_boilerplate.git
-2) npm install -g firebase-tools  (sudo?)
-3) firebase login
-	- в браузере войти в аккаунт гугла и разрешить доступ
+1. git clone https://github.com/ds160607/pwa_boilerplate.git
+1. npm install -g firebase-tools  (sudo?)
+1. firebase login (в браузере войти в аккаунт гугла и разрешить доступ)
+```bash
+firebase login
+? Allow Firebase to collect anonymous CLI usage information? No
 
-		firebase login
-		? Allow Firebase to collect anonymous CLI usage information? No
-
-		Visit this URL on any device to log in:
-		https://accounts.google.com/o/oauth2/auth?client_id=563584335869...
+Visit this URL on any device to log in:
+https://accounts.google.com/o/oauth2/auth?client_id=563584335869...
 	
-		Waiting for authentication...
+Waiting for authentication...
 
-		✔  Success! Logged in as pwa.exness@gmail.com
-		dmitry.grushin@w4007:~/exness/PWA/pwa_boilerplate$ 
-4) firebase deploy
+✔  Success! Logged in as pwa.exness@gmail.com
+dmitry.grushin@w4007:~/exness/PWA/pwa_boilerplate$ 
+```
+
+1. firebase deploy
 
 
 
