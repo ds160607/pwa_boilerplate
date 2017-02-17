@@ -22,6 +22,7 @@
 }
 .three-bounce > div {
 	display : inline-block;
+  margin: 4px;
 	width : 18px;
 	height : 18px;
 	border-radius : 100% ;
@@ -63,14 +64,7 @@
 
 </head>
 <body>
-  <div id="root" style="height: 100%">
-    <div class="three-bounce">
-          <div class="one"></div>
-          <div class="two"></div>
-          <div class="three"></div>
-        </div>
-      </div>
-  </div>
+  <div id="root" style="height: 100%"><div class="three-bounce"><div class="one"></div><div class="two"></div><div class="three"></div></div></div>
   <script>
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/sw.js', { scope: '/' })

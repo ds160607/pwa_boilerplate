@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "pwa-exness"
+    "default": "pwa-exness",
+    "hakaton": "pwa-exness"
   }
 }
