@@ -1,5 +1,6 @@
 import React from 'react'
 import './HomeView.scss'
+import database from '../../../database/firebase'
 
 import { Menu, MenuItem, IconButton, Button } from 'react-mdl'
 
